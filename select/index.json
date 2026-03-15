@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ごらんください",
+  "base_artist": "コアラモード．",
+  "createdAt": "2026-03-15T06:10:45.017024Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごらんください",
+      "artist": "コアラモード.",
+      "has_synced": false,
+      "path": "select/pl_01_ごらんください_コアラモード..txt"
+    }
+  ]
+}
